@@ -8,4 +8,4 @@
 <h4>
   The output follow:- 
 </h4>
-<img src = "">
+<img src = "output.png">
